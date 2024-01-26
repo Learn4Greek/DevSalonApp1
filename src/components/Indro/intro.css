@@ -1,0 +1,88 @@
+#indro {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width:75;
+    margin: 1rem 0.5rem;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+.bg {
+    position: absolute;
+    top:5rem;
+    z-index: -1;
+    right: 0rem;
+    object-fit: cover;
+    height: 100vh;
+
+}
+
+.introContent {
+    height: 100vh;
+    width: 100vw;
+    padding: 5rem;
+    font-size: 3rem;
+    display: flex;
+    font-weight: 700;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hello {
+    font-size: 1.7rem;
+    font-weight: 100;
+}
+
+.introName {
+    color: yellow;
+}
+
+.indroPara {
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.btn {
+    background: white;
+    margin: 0;
+    padding: 0.1rem 1rem;
+    border: 0;
+    border-radius: 2rem;
+    /* object-fit: cover; */
+    text-align: center;
+    align-items: center;
+}
+.btnImg {
+    object-fit: cover;
+    margin: 0 0.2rem;
+    height: 2rem;
+}
+
+.btn span {
+    font-size: 1.4rem;
+}
+
+@media screen and (max-width:720px) {
+    .bg {
+        right: -40vw;
+    }
+    .introContent {
+        font-size: 10vw;
+        
+    }
+    .hello {
+        font-size: 4.5vm;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .bg {
+        right: -70vw;
+    }
+    .introContent {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vm;
+    }
+} 
