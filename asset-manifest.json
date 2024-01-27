@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Learn4Greek/.github.io/DevSalonApp1/static/css/main.7a216854.css",
-    "main.js": "/Learn4Greek/.github.io/DevSalonApp1/static/js/main.5d51562b.js",
+    "main.js": "/Learn4Greek/.github.io/DevSalonApp1/static/js/main.3e52cc65.js",
     "static/media/logo_2.png": "/Learn4Greek/.github.io/DevSalonApp1/static/media/logo_2.75dadd953f78a4d714eb.png",
     "static/media/logo_1.png": "/Learn4Greek/.github.io/DevSalonApp1/static/media/logo_1.2a74ba6c59a7fc33fb9a.png",
     "static/media/image_2.png": "/Learn4Greek/.github.io/DevSalonApp1/static/media/image_2.d9ce2327e93678693930.png",
     "static/media/image_1.png": "/Learn4Greek/.github.io/DevSalonApp1/static/media/image_1.d000e3f6563eb5df0fe2.png",
     "index.html": "/Learn4Greek/.github.io/DevSalonApp1/index.html",
     "main.7a216854.css.map": "/Learn4Greek/.github.io/DevSalonApp1/static/css/main.7a216854.css.map",
-    "main.5d51562b.js.map": "/Learn4Greek/.github.io/DevSalonApp1/static/js/main.5d51562b.js.map"
+    "main.3e52cc65.js.map": "/Learn4Greek/.github.io/DevSalonApp1/static/js/main.3e52cc65.js.map"
   },
   "entrypoints": [
     "static/css/main.7a216854.css",
-    "static/js/main.5d51562b.js"
+    "static/js/main.3e52cc65.js"
   ]
 }
